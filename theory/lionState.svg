@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="305.5" cy="302.5" rx="30" ry="30"/>
+	<text x="281.5" y="308.5" font-family="Times New Roman" font-size="20">LION</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="139.5" cy="152.5" rx="30" ry="30"/>
+	<text x="104.5" y="158.5" font-family="Times New Roman" font-size="20">preening</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="130.5" cy="505.5" rx="30" ry="30"/>
+	<text x="97.5" y="511.5" font-family="Times New Roman" font-size="20">sleeping</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="716.5" cy="443.5" rx="30" ry="30"/>
+	<text x="692.5" y="449.5" font-family="Times New Roman" font-size="20">eating</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="543.5" cy="36.5" rx="30" ry="30"/>
+	<text x="512.5" y="42.5" font-family="Times New Roman" font-size="20">hunting</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 168.664,159.418 A 205.765,205.765 0 0 1 295.671,274.184"/>
+	<polygon fill="black" stroke-width="1" points="168.664,159.418 174.788,166.595 177.798,157.059"/>
+	<text x="249.5" y="194.5" font-family="Times New Roman" font-size="20">bored</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 119.073,477.821 A 143.362,143.362 0 0 1 276.439,295.276"/>
+	<polygon fill="black" stroke-width="1" points="119.073,477.821 121.605,468.733 112.014,471.562"/>
+	<text x="17.5" y="335.5" font-family="Times New Roman" font-size="20">after a long day</text>
+	<polygon stroke="black" stroke-width="1" points="333.877,312.235 688.123,433.765"/>
+	<polygon fill="black" stroke-width="1" points="688.123,433.765 682.179,426.44 678.934,435.898"/>
+	<text x="507.5" y="361.5" font-family="Times New Roman" font-size="20">finds food randomly</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 559.693,61.753 A 1232.09,1232.09 0 0 1 709.554,414.316"/>
+	<polygon fill="black" stroke-width="1" points="709.554,414.316 712.457,405.34 702.758,407.773"/>
+	<text x="655.5" y="228.5" font-family="Times New Roman" font-size="20">prey killed</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 290.993,328.755 A 581.73,581.73 0 0 1 154.331,487.283"/>
+	<polygon fill="black" stroke-width="1" points="154.331,487.283 163.698,486.155 157.422,478.369"/>
+	<text x="235.5" y="434.5" font-family="Times New Roman" font-size="20">tranquilized</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 146.503,480.127 A 804.181,804.181 0 0 1 282.762,322.067"/>
+	<polygon fill="black" stroke-width="1" points="146.503,480.127 155.075,476.187 146.718,470.695"/>
+	<text x="147.5" y="388.5" font-family="Times New Roman" font-size="20">too hot</text>
+	<polygon stroke="black" stroke-width="1" points="686.667,446.656 160.333,502.344"/>
+	<polygon fill="black" stroke-width="1" points="160.333,502.344 168.815,506.474 167.763,496.53"/>
+	<text x="390.5" y="499.5" font-family="Times New Roman" font-size="20">food coma</text>
+	<polygon stroke="black" stroke-width="1" points="283.241,282.387 161.759,172.613"/>
+	<polygon fill="black" stroke-width="1" points="161.759,172.613 164.342,181.687 171.047,174.267"/>
+	<text x="143.5" y="248.5" font-family="Times New Roman" font-size="20">chillaxin'</text>
+	<polygon stroke="black" stroke-width="1" points="514.665,44.779 168.335,144.221"/>
+	<polygon fill="black" stroke-width="1" points="168.335,144.221 177.404,146.819 174.644,137.207"/>
+	<text x="273.5" y="83.5" font-family="Times New Roman" font-size="20">clean off</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 540.789,66.363 A 279.337,279.337 0 0 1 334.879,296.498"/>
+	<polygon fill="black" stroke-width="1" points="540.789,66.363 534.691,73.561 544.587,74.998"/>
+	<text x="477.5" y="233.5" font-family="Times New Roman" font-size="20">sees prey</text>
+	<polygon stroke="black" stroke-width="1" points="325.504,280.143 523.496,58.857"/>
+	<polygon fill="black" stroke-width="1" points="523.496,58.857 514.436,61.485 521.888,68.153"/>
+	<text x="264.5" y="160.5" font-family="Times New Roman" font-size="20">strolls around town</text>
+</svg>

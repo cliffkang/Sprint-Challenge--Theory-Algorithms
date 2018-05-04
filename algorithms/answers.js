@@ -35,4 +35,27 @@ function findMax(arraySize, num) {
 console.log('answer is II(a) is', findMax(100, 50));
 
 // (b)
+/*
+Something similar to a binary search tree would be a good method (so divide and conquer)
+Drop an egg at floor (n/2): 
+   if (broken) check at ((n/2) / 2)
+   else check at (n/2) + ((n/2) / 2)
+*/
+
+// Exercise III
+
+// (a)
+/*
+It would be O(n^2). It would first look through n - 1 elements; then it would recurse
+through the greater list, looking through n - 2, n - 3, and so forth until the length
+of the greater list became 1, so it would look through basically n + (n ^ 2 / 2), 
+which simplifies into O(n ^ 2).
+*/
+
+// (b)
+/*
+It would look through n - 1 on the first loop; then ((n - 1) - 2); then 2 less, 2 less,
+so forth. It would end up being close to (n ^ 2 / 2) again, which again simplifies into
+O(n ^ 2).
+*/
 
